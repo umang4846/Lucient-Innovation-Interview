@@ -39,6 +39,7 @@ Customer Details Fields
 8. City
 9. ZipCode
 10. Country
+
 ● Create a new customer
 ● Update customer details
 ● Deleting customer
