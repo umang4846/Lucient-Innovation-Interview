@@ -44,8 +44,11 @@ Customer Details Fields
 10. Country
 
 ● Create a new customer
+
 ● Update customer details
+
 ● Deleting customer
+
 ● Get all customer details
 
 ### Create a new customer
@@ -156,16 +159,18 @@ You can edit customer clicking edit
 
 To get all products data from using below API and store into the database:
 
-https://e3519ce8d2b72750210800f3ba7115f2:a87522cc2e2551e43549aceb52e5d141@securecod4
-.myshopify.com/admin/api/2020-01/products.json
+https://e3519ce8d2b72750210800f3ba7115f2:a87522cc2e2551e43549aceb52e5d141@securecod4.myshopify.com/admin/api/2020-01/products.json
 
 ● Retrieve all product data
 
 ● Display products into frontside (table)
 
+Note :
+ Open Task 2 all urls in Web browser
+
 ### Retrieve all product data
 
-get json response of above url then save the data into table products
+get json response of above url then save the data into table 'products'
 
 Note : please find sql file and import it in MySQL Workbench
 
