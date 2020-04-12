@@ -7,6 +7,8 @@ The project is created with Maven, so you just need to import it to your IDE and
 
 ### Database configuration
 
+Note : please find sql file and import it in MySQL Workbench
+
 Create a MySQL database with the name lucentinterview and add the credentials to /resources/application.properties.
 The default ones are :
 ```
@@ -149,3 +151,26 @@ You can edit customer clicking edit
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/allCustomerUI.png)
 
 
+## TASK 3
+
+To get all products data from using below API and store into the database:
+
+https://e3519ce8d2b72750210800f3ba7115f2:a87522cc2e2551e43549aceb52e5d141@securecod4
+.myshopify.com/admin/api/2020-01/products.json
+
+● Retrieve all product data
+
+● Display products into frontside (table)
+
+### Retrieve all product data
+
+get json response of above url then save the data into table products
+
+Note : please find sql file and import it in MySQL Workbench
+
+
+### Display products into frontside (table)
+
+*Url* : http://localhost:2020/products/list
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/allProductsUI.png)
