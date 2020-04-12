@@ -67,7 +67,7 @@ Customer Details Fields
 
 ```
 
-![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/addCustomerREST.png)
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/addCustomerREST.png)
 
 
 
