@@ -45,7 +45,7 @@ Customer Details Fields
 ● Deleting customer
 ● Get all customer details
 
-## Create a new customer
+### Create a new customer
 
 *Mapping* : POST Mapping.
 
@@ -69,7 +69,7 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/addCustomerREST.png)
 
-## Update a customer details
+### Update a customer details
 
 *Mapping* : PUT Mapping.
 
@@ -93,7 +93,7 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/updateCustomerREST.png)
 
-## Deleting customer
+### Deleting customer
 
 *Mapping* : DELETE Mapping.
 
@@ -101,7 +101,7 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/deleteCustomerREST.png)
 
-## Get all customer details
+### Get all customer details
 
 *Mapping* : GET Mapping.
 
