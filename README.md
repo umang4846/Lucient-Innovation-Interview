@@ -49,7 +49,7 @@ Customer Details Fields
 
 *Mapping* : POST Mapping.
 
-*Url* : http://localhost:2020/add
+*Url* : http://localhost:2020/customer/add
 
 ```json
 {
@@ -69,5 +69,28 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/addCustomerREST.png)
 
+## Update a customer details
+
+*Mapping* : PUT Mapping.
+
+*Url* : http://localhost:2020/customer/update/{customerId}
+
+```json
+{
+"name":"UPDATED NAME",
+"gender":"Male",
+"emailAddress":"Umang@gmail.com",
+"mobileNo":"09090909909",
+"address1":"Address a ",
+"address2":"Address b",
+"city":"AHMEDABAD",
+"state":"GUJARAT",
+"zipCode":"ASAy566",
+"country":"INDIA"
+}
+
+```
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/updateCustomerREST.png)
 
 
