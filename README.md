@@ -9,8 +9,9 @@ The project is created with Maven, so you just need to import it to your IDE and
 
 Note : please find sql file and import it in MySQL Workbench
 
-Create a MySQL database with the name lucentinterview and add the credentials to /resources/application.properties.
-The default ones are :
+Create a MySQL database 'lucentinterview' and set username and password it. also add the credentials to /resources/application.properties.
+
+Like this :
 ```
 server.port=2020
 
