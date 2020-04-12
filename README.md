@@ -101,3 +101,10 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/deleteCustomerREST.png)
 
+## Get all customer details
+
+*Mapping* : GET Mapping.
+
+*Url* : http://localhost:2020/customer/getAll
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/getAllCustomerREST.png)
