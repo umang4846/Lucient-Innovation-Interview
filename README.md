@@ -166,7 +166,7 @@ https://e3519ce8d2b72750210800f3ba7115f2:a87522cc2e2551e43549aceb52e5d141@secure
 ● Display products into frontside (table)
 
 Note :
- Open Task 2 all urls in Web browser
+ Open Task 3 all urls in Web browser
 
 ### Retrieve all product data
 
