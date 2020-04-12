@@ -141,3 +141,11 @@ You can edit customer clicking edit
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/updateCustomerUI.png)
 
+
+### Display customer List into the table using above API
+
+*Url* : http://localhost:2020/list
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/allCustomerUI.png)
+
+
