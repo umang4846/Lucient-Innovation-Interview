@@ -93,4 +93,11 @@ Customer Details Fields
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/updateCustomerREST.png)
 
+## Deleting customer
+
+*Mapping* : DELETE Mapping.
+
+*Url* : http://localhost:2020/customer/delete/{customerId}
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/deleteCustomerREST.png)
 
