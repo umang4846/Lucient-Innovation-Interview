@@ -108,3 +108,23 @@ Customer Details Fields
 *Url* : http://localhost:2020/customer/getAll
 
 ![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/getAllCustomerREST.png)
+
+
+
+## TASK 2
+
+Implement API to perform the following operations. 
+
+● Create a Customer Form + using above API
+● Update Customer details using Form + using above API
+● Display customer List into the table using above API
+
+Note :
+ Open Task 2 all urls in Web browser
+
+### Create a Customer Form + using above API
+
+*Url* : http://localhost:2020/registration
+
+![alt text](https://github.com/umang4846/Lucient-Innovation-Interview/blob/master/Lucient-Innovation-Interview/registerCustomerUI.png)
+
